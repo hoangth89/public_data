@@ -54,4 +54,24 @@
 			"meditations":[]
 		}
 	],
+	"quote": [
+        {
+            "id": "1",
+            "quote": "Một đóa hoa cho ngày mới hạnh phúc. Một lời chúc cho vạn sự bình an",
+            "author": "",
+            "photo": "https://upos.vn/uploads/files/files/UPOS/upos%20P/Status-chao-ngay-moi-ban-hang-tang-tuong-tac.jpg"
+        },
+        {
+            "id": "2",
+            "quote": "Chào ngày mới Bình yên và Hạnh phúc!",
+            "author": "Tâm bình",
+            "photo": "https://2momart.vn/photos/2momart/08052021/ngay-moi-tot-lanh-voi-nhung-cau-chao-ngay-moi-hay-nhat.jpg"
+        },
+        {
+            "id": "3",
+            "quote": "Meditation 3",
+            "author": "Bài nhạc giúp tĩnh tâm, thư giản...",
+            "photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+        }
+    ]
 }
