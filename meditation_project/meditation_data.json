@@ -1,92 +1,92 @@
 {
-	"meditation_groups": [
-		{
-			"id": "1",
-			"title": "Nhạc Thiền Tĩnh Tâm",
-			"description": "Nghe nhạc Phật giáo, thiền định",
-			"photo": "https://unica.vn/upload/landingpage/3180110920_giai-dap-thac-mac-co-nen-nghe-nhac-thien-%C2%A0_thumb.jpg",
-			"meditations": [
-				{
-					"id": "1",
-					"title": "Nhạc Thiền Tĩnh Tâm",
-					"description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
-					"photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-					"gallery": [
-						"https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-						"https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
-					],
-					"audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
-				},
-				{
-					"id": "2",
-					"title": "Meditation 2",
-					"description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
-					"photo": "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png",
-					"gallery": [
-						"https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-						"https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
-					],
-					"audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
-				},
-				{
-					"id": "3",
-					"title": "Meditation 3",
-					"description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
-					"photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-					"gallery": [
-						"https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-						"https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
-					],
-					"audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
-				}
-			]
-		},
-		{
-			"id": "2",
-			"title": "Kinh Phật",
-			"description": "Nghe các bài Kinh Phật",
-			"photo": "https://quydaophatngaynay.org/wp-content/uploads/2019/06/bizmac_full_30292015_012916.jpg",
-			"meditations": []
-		},
-		{
-			"id": "3",
-			"title": "Nhạc Thiền 3",
-			"description": "Chủ đề nhạc thiền khác",
-			"photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-			"meditations": []
-		}
-	],
-	"quotes": [
-		{
-			"id": "1",
-			"quote": "Một đóa hoa cho ngày mới hạnh phúc. Một lời chúc cho vạn sự bình an",
-			"author": "",
-			"photo": "https://upos.vn/uploads/files/files/UPOS/upos%20P/Status-chao-ngay-moi-ban-hang-tang-tuong-tac.jpg"
-		},
-		{
-			"id": "2",
-			"quote": "Chào ngày mới Bình yên và Hạnh phúc!",
-			"author": "Tâm bình",
-			"photo": "https://2momart.vn/photos/2momart/08052021/ngay-moi-tot-lanh-voi-nhung-cau-chao-ngay-moi-hay-nhat.jpg"
-		},
-		{
-			"id": "4",
-			"quote": "Bình yên là một dạng của hạnh phúc",
-			"author": "",
-			"photo": "https://cdn.tgdd.vn/Files/2022/08/18/1456985/nhung-cau-noi-hay-ve-cuoc-song-binh-yen-giup-an-yen-yeu-doi-202208180811524797.jpg"
-		},
-		{
-			"id": "5",
-			"quote": "Thấy không hoa lá còn cười. Huống chi ta phải làm người buồn thiu?",
-			"author": "Bình yên là một dạng của hạnh phúc",
-			"photo": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/168744/Originals/Tong-hop-nhung-stt-cuoc-song-am-yen-de-tra-lai-ban-cuoc-doi-binh-an-1(1).jpg"
-		},
-		{
-			"id": "5",
-			"quote": "Sau tất cả...được sống thanh thản và bình yên với tâm hồn của mình đã là một điều may mắn giữa cuộc đời này",
-			"author": "Bình yên là một dạng của hạnh phúc",
-			"photo": "https://tiki.vn/blog/wp-content/uploads/2023/11/stt-binh-yen-trong-tam-hon-1024x683.jpg"
-		}
-		
-	]
+  "meditation_groups": [
+    {
+      "id": "1",
+      "title": "Nhạc Thiền Tĩnh Tâm",
+      "description": "Nghe nhạc Phật giáo, thiền định",
+      "photo": "https://unica.vn/upload/landingpage/3180110920_giai-dap-thac-mac-co-nen-nghe-nhac-thien-%C2%A0_thumb.jpg",
+      "meditations": [
+        {
+          "id": "1",
+          "title": "Nhạc Thiền Tĩnh Tâm",
+          "description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
+          "photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+          "gallery": [
+            "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+            "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png",
+            "https://dogogiaan.com/wp-content/uploads/2023/05/hinh-anh-phat-thich-ca-dep-nhat-8.jpg"
+          ],
+          "audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
+        },
+        {
+          "id": "2",
+          "title": "Liên hoa Tam bảo 1",
+          "description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
+          "photo": "https://thienphatgiao.org/wp-content/uploads/2019/07/hoa-sen-trang-va-than-thong-02.jpg",
+          "gallery": [
+            "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+            "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
+          ],
+          "audioUrl": "https://ph.tinhtong.vn/ftp/MP3%20Nhac/07%20Nhac%20Thien/Lien%20Hoa%20Tam%20Bao%20Cu/LienHoaTamBaoCu_01.mp3"
+        },
+        {
+          "id": "3",
+          "title": "Meditation 3",
+          "description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
+          "photo": "https://media.tapchinghiencuuphathoc.vn/uploads/2024/07/tapchinghiencuuphathoc-kinh-dieu-phap-lien-hoa-bo-tat-quan-the-am-2.png",
+          "gallery": [
+            "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+            "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
+          ],
+          "audioUrl": "https://ph.tinhtong.vn/ftp/MP3%20Nhac/07%20Nhac%20Thien/Lien%20Hoa%20Tam%20Bao%20Cu/LienHoaTamBaoCu_02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Kinh Phật",
+      "description": "Nghe các bài Kinh Phật",
+      "photo": "https://quydaophatngaynay.org/wp-content/uploads/2019/06/bizmac_full_30292015_012916.jpg",
+      "meditations": []
+    },
+    {
+      "id": "3",
+      "title": "Nhạc Thiền 3",
+      "description": "Chủ đề nhạc thiền khác",
+      "photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+      "meditations": []
+    }
+  ],
+  "quotes": [
+    {
+      "id": "1",
+      "quote": "Một đóa hoa cho ngày mới hạnh phúc. Một lời chúc cho vạn sự bình an",
+      "author": "",
+      "photo": "https://upos.vn/uploads/files/files/UPOS/upos%20P/Status-chao-ngay-moi-ban-hang-tang-tuong-tac.jpg"
+    },
+    {
+      "id": "2",
+      "quote": "Chào ngày mới Bình yên và Hạnh phúc!",
+      "author": "Tâm bình",
+      "photo": "https://2momart.vn/photos/2momart/08052021/ngay-moi-tot-lanh-voi-nhung-cau-chao-ngay-moi-hay-nhat.jpg"
+    },
+    {
+      "id": "4",
+      "quote": "Bình yên là một dạng của hạnh phúc",
+      "author": "",
+      "photo": "https://cdn.tgdd.vn/Files/2022/08/18/1456985/nhung-cau-noi-hay-ve-cuoc-song-binh-yen-giup-an-yen-yeu-doi-202208180811524797.jpg"
+    },
+    {
+      "id": "5",
+      "quote": "Thấy không hoa lá còn cười. Huống chi ta phải làm người buồn thiu?",
+      "author": "Bình yên là một dạng của hạnh phúc",
+      "photo": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/168744/Originals/Tong-hop-nhung-stt-cuoc-song-am-yen-de-tra-lai-ban-cuoc-doi-binh-an-1(1).jpg"
+    },
+    {
+      "id": "6",
+      "quote": "Sau tất cả...được sống thanh thản và bình yên với tâm hồn của mình đã là một điều may mắn giữa cuộc đời này",
+      "author": "Bình yên là một dạng của hạnh phúc",
+      "photo": "https://tiki.vn/blog/wp-content/uploads/2023/11/stt-binh-yen-trong-tam-hon-1024x683.jpg"
+    }
+  ]
 }
