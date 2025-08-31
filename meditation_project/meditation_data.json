@@ -16,7 +16,8 @@
             "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png",
             "https://dogogiaan.com/wp-content/uploads/2023/05/hinh-anh-phat-thich-ca-dep-nhat-8.jpg"
           ],
-          "audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
+          "audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3",
+          "category": "Nhạc Phật giáo"
         },
         {
           "id": "2",
@@ -27,18 +28,44 @@
             "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
             "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
           ],
-          "audioUrl": "https://ph.tinhtong.vn/ftp/MP3%20Nhac/07%20Nhac%20Thien/Lien%20Hoa%20Tam%20Bao%20Cu/LienHoaTamBaoCu_01.mp3"
+          "audioUrl": "https://ph.tinhtong.vn/ftp/MP3%20Nhac/07%20Nhac%20Thien/Lien%20Hoa%20Tam%20Bao%20Cu/LienHoaTamBaoCu_01.mp3",
+          "category": "Liên Hoa Tam Bảo"
         },
         {
           "id": "3",
-          "title": "Meditation 3",
+          "title": "Liên Hoa Tam Bảo 2",
           "description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
           "photo": "https://media.tapchinghiencuuphathoc.vn/uploads/2024/07/tapchinghiencuuphathoc-kinh-dieu-phap-lien-hoa-bo-tat-quan-the-am-2.png",
           "gallery": [
             "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
             "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
           ],
-          "audioUrl": "https://ph.tinhtong.vn/ftp/MP3%20Nhac/07%20Nhac%20Thien/Lien%20Hoa%20Tam%20Bao%20Cu/LienHoaTamBaoCu_02.mp3"
+          "audioUrl": "https://ph.tinhtong.vn/ftp/MP3%20Nhac/07%20Nhac%20Thien/Lien%20Hoa%20Tam%20Bao%20Cu/LienHoaTamBaoCu_02.mp3",
+          "category": "Liên Hoa Tam Bảo"
+        },
+        {
+          "id": "1756626641905",
+          "title": "Liên Hoa Tam Bảo 3",
+          "description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
+          "photo": "https://daibaothapmandalataythien.org/sites/default/files/images/thai-giao-theo-tinh-than-phat-giao-giup-be-thong-minh-tu-trong-bung-me-2.jpg",
+          "gallery": [
+            "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+            "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
+          ],
+          "audioUrl": "https://ph.tinhtong.vn/ftp/MP3%20Nhac/07%20Nhac%20Thien/Lien%20Hoa%20Tam%20Bao%20Cu/LienHoaTamBaoCu_03.mp3",
+          "category": "Liên Hoa Tam Bảo"
+        },
+        {
+          "id": "1756626698448",
+          "title": "Liên Hoa Tam Bảo 4",
+          "description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
+          "photo": "https://daibaothapmandalataythien.org/sites/default/files/images/thai-giao-theo-tinh-than-phat-giao-giup-be-thong-minh-tu-trong-bung-me-2.jpg",
+          "gallery": [
+            "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+            "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
+          ],
+          "audioUrl": "https://ph.tinhtong.vn/ftp/MP3%20Nhac/07%20Nhac%20Thien/Lien%20Hoa%20Tam%20Bao%20Cu/LienHoaTamBaoCu_04.mp3",
+          "category": "Liên Hoa Tam Bảo"
         }
       ]
     },
@@ -47,14 +74,51 @@
       "title": "Kinh Phật",
       "description": "Nghe các bài Kinh Phật",
       "photo": "https://quydaophatngaynay.org/wp-content/uploads/2019/06/bizmac_full_30292015_012916.jpg",
-      "meditations": []
+      "meditations": [
+        {
+          "id": "4",
+          "title": "Kinh Phật Đại Bi",
+          "description": "Kinh Đại Bi Tâm Đà Ra Ni, giúp tịnh hóa tâm hồn",
+          "photo": "https://bizweb.dktcdn.net/100/285/811/files/kinh-dai-bi-tam-da-la-ni.jpg",
+          "gallery": [
+            "https://bizweb.dktcdn.net/100/285/811/files/kinh-dai-bi-tam-da-la-ni.jpg",
+            "https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2023/8/5/bo-tat-quan-the-am-16912708037601056423432.jpg"
+          ],
+          "audioUrl": "https://example.com/audio/kinh-dai-bi.mp3",
+          "category": "Kinh Phật"
+        }
+      ]
     },
     {
       "id": "3",
       "title": "Nhạc Thiền 3",
       "description": "Chủ đề nhạc thiền khác",
       "photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-      "meditations": []
+      "meditations": [
+        {
+          "id": "5",
+          "title": "Thiền Hạnh Phúc",
+          "description": "Bài thiền giúp tìm lại niềm hạnh phúc trong tâm hồn",
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQGp6fmEi_-VdGhK3KkY9V9GxZQQV3O3Qtg&s",
+          "gallery": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQGp6fmEi_-VdGhK3KkY9V9GxZQQV3O3Qtg&s",
+            "https://khoahocphattoc.vn/wp-content/uploads/2019/12/thien-dinh.jpg"
+          ],
+          "audioUrl": "https://example.com/audio/thien-hanh-phuc.mp3",
+          "category": "Thiền định"
+        },
+        {
+          "id": "6",
+          "title": "Âm Thanh Tự Nhiên",
+          "description": "Âm thanh thiên nhiên giúp thư giãn và tĩnh tâm",
+          "photo": "https://static-images.vnncdn.net/files/publish/2023/4/4/mot-so-loi-ich-cua-viec-thinh-lang-doc-sach-1042.jpg",
+          "gallery": [
+            "https://static-images.vnncdn.net/files/publish/2023/4/4/mot-so-loi-ich-cua-viec-thinh-lang-doc-sach-1042.jpg"
+          ],
+          "audioUrl": "https://example.com/audio/am-thanh-tu-nhien.mp3",
+          "category": "Âm thanh thiên nhiên"
+        }
+      ]
     }
   ],
   "quotes": [
