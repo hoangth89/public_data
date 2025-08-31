@@ -1,0 +1,57 @@
+{
+	"meditation_groups": [
+		{
+			"id": "1",
+			"title": "Nhạc Thiền Tĩnh Tâm",
+			"description": "Nghe nhạc Phật giáo, thiền định",
+			"photo": "https://unica.vn/upload/landingpage/3180110920_giai-dap-thac-mac-co-nen-nghe-nhac-thien-%C2%A0_thumb.jpg",
+			"meditations": [
+				{
+					"id": "1",
+					"title": "Nhạc Thiền Tĩnh Tâm",
+					"description": "Bài nhạc giúp tĩnh tâm, thư giản...",
+					"photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+					"gallery": [
+						"https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+						"https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
+					],
+					"audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
+				},
+				{
+					"id": "2",
+					"title": "Meditation 2",
+					"description": "Bài nhạc giúp tĩnh tâm, thư giản...",
+					"photo": "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png",
+					"gallery": [
+						"https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+						"https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
+					],
+					"audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
+				},
+				{
+					"id": "3",
+					"title": "Meditation 3",
+					"photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+					"gallery": [
+						"https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+						"https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
+					],
+					"audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"title": "Kinh Phật",
+			"description": "Nghe các bài Kinh Phật",
+			"photo": "https://quydaophatngaynay.org/wp-content/uploads/2019/06/bizmac_full_30292015_012916.jpg",
+			"meditations":[]
+		},
+		{
+			"id": "3",
+			"title": "Nhạc Thiền 3",
+			"photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
+			"meditations":[]
+		}
+	],
+}
