@@ -7,22 +7,10 @@
       "photo": "https://unica.vn/upload/landingpage/3180110920_giai-dap-thac-mac-co-nen-nghe-nhac-thien-%C2%A0_thumb.jpg",
       "meditations": [
         {
-          "id": "1",
-          "title": "Nhạc Thiền Tĩnh Tâm",
-          "description": "Bài nhạc giúp tĩnh tâm, thư giãn...",
-          "photo": "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-          "gallery": [
-            "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
-            "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png",
-            "https://dogogiaan.com/wp-content/uploads/2023/05/hinh-anh-phat-thich-ca-dep-nhat-8.jpg"
-          ],
-          "audioUrl": "https://httpplmpxyumimkiybgp.supabase.co/storage/v1/object/public/meditation/buddhism/nhac-thien-tinh-tam-an-nhien-tu-tai.mp3"
-        },
-        {
           "id": "2",
           "title": "Liên hoa Tam bảo 1",
           "description": "Bài nhạc giúp tĩnh tâm, thư giãn, thay đổi thái độ về cuộc sống, tình yêu và khơi gợi cảm hứng sống, học tập và cống hiến. Bài rất thích hợp để nghe và phát triển kỹ năng sống.",
-          "photo": "https://thienphatgiao.org/wp-content/uploads/2019/07/hoa-sen-trang-va-than-thong-02.jpg",
+          "photo": "https://hoaianvien.com.vn/upload/images/sen-trang-loai-hoa-mang-gia-tri-tinh-hoa-trong-van-hoa-viet-nam-2.jpg.png",
           "gallery": [
             "https://inkythuatso.com/uploads/thumbnails/800/2022/04/anh-dep-nhat-ve-phat-041109417-07-23-24-24.jpg",
             "https://image.giacngo.vn/w770/Uploaded/2025/estnselxslt/2025_07_29/buddha-2799-9844.png"
